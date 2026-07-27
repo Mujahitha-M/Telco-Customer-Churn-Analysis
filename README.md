@@ -88,7 +88,6 @@ Telco-Customer-Churn-Analysis
 ## 📷 Dashboard Preview
 
 > Add your Power BI dashboard screenshot here.
-> ## Dashboard Preview
 
 ![Dashboard](Telco_Customer_Churn_Dashboard.png)
 
